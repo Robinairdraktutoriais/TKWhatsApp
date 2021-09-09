@@ -1,7 +1,6 @@
-{"version_code":2.21.9.10,"content":"
-<p>JPWhatsApp V3</p>
+{"version_code":2.21.18.4,"content":"
+<p>DNWhatsApp V9.0</p>
 
 
-<l>versão atualizada para 2.21.9.10</li>
+<l>versão atualizada para 2.21.18.4</li>
 <l>antiban</li>
-<l>imune a todas as travas</li>
