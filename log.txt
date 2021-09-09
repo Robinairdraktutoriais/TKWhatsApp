@@ -3,9 +3,13 @@
 
 
 <l>versão atualizada para 2.21.18.4</li>
+
 <l>antiban</li>
+
 <l>backup e restaure</li>
+
 <l>bomba de texto</li>
+
 <l>Contador de mensagem nos grupos</li>
 
 
