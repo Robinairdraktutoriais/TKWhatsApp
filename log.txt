@@ -6,6 +6,7 @@
 <l>antiban</li>
 <l>backup e restaure</li>
 <l>bomba de texto</li>
+<l>Contador de mensagem nos grupos</li>
 
 
 ","url":"https://dnwhatsapp.webnode.com"
