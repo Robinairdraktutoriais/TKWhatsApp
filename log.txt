@@ -1,6 +1,8 @@
-{"version_code":2.21.18.4,"content":"
+{"version_code":211804004,"content":"
 <p>DNWhatsApp V9.0</p>
 
 
 <l>versão atualizada para 2.21.18.4</li>
 <l>antiban</li>
+<l>backup e restaure</li>
+<l>bomba de texto</li>
