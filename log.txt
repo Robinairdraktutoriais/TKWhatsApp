@@ -2,15 +2,13 @@
 <p>TKWhatsApp V10</p>
 
 
-<l>versão atualizada para 2.21.22.8</li>
+<li>versão atualizada para 2.21.22.8.</li>
 
-<l>antiban</li>
+<li>antiban.</li>
 
-<l>backup e restaure</li>
+<li>bomba de texto.</li>
 
-<l>bomba de texto</li>
-
-<l>Contador de mensagem nos grupos</li>
+<li>Contador de mensagem nos grupos.</li>
 
 
 ","url":"https://robin-airdrak-tutoriais9.webnode.com"
