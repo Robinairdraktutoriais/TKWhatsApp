@@ -1,8 +1,8 @@
 {"version_code":211804004,"content":"
-<p>TKWhatsApp V10.0</p>
+<p>TKWhatsApp V10</p>
 
 
-<l>versão atualizada para 2.21.18.4</li>
+<l>versão atualizada para 2.21.22.8</li>
 
 <l>antiban</li>
 
