@@ -1,5 +1,5 @@
 {"version_code":212414000,"content":"
-<p>TKWhatsApp V11>
+<p>TKWhatsApp V11</p>
 
 
 <li>Nova Versão em breve.</li>
