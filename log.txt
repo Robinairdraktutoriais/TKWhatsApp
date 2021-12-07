@@ -2,7 +2,7 @@
 <p>TKWhatsApp V11>
 
 
-<l>Nova Versão em breve</li>
+<li>Nova Versão em breve.</li>
 
 
 ","url":"https://robin-airdrak-tutoriais9.webnode.com"
