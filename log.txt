@@ -2,7 +2,20 @@
 <p>TKWhatsApp V11</p>
 
 
-<li>Nova Versão em breve.</li>
+<li>Nova versão atualizada para 2.21.24.14.</li>
+
+
+<li>ADICIONADO.</li>
+
+<li>anti visualização unica.</li>
+
+<li>contador de mensagens em grupos.</li>
+
+<li>modo avião - dnd.</li>
+
+<li>encaminhar mensagens até 250 chats.</li>
+
+<li>fixar mais de 3 conversas.</li>
 
 
 ","url":"https://robin-airdrak-tutoriais9.webnode.com"
