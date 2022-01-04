@@ -1,7 +1,7 @@
-{"version_code":9999999999,"content":"
-<p>Titulo</p>
+{"version_code":220110002,"content":"
+<p>Nova versão atualizada para 2.22.1.10</p>
 
 
-<l>Lista de cambios</li>
-","url":"https://youtube.com"
+<l>Em breve</li>
+","url":"https://t.me/tkwhatsapp"
 }
