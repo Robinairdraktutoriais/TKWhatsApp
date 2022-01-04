@@ -1,5 +1,5 @@
 {"version_code":220110002,"content":"
-<p>Nova versão atualizada para 2.22.1.10</p>
+<p>TKWhatsApp V12</p>
 
 
 <l>Em breve</li>
