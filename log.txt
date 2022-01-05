@@ -2,6 +2,25 @@
 <p>TKWhatsApp V12</p>
 
 
-<l>Em breve</li>
+<li>ADICIONADO.</li>
+
+<l>Nova Versão Atualizada para 2.22.1.10</li>
+
+<li>limpar database.</li>
+
+<li>encaminhar mensagem até 250 chats.</li>
+
+<li>capacidade de fixar mais de 3 conversas.</li>
+
+
+<li>CORRIGIDO.</li>
+
+<li>crash ao salvar fotos de grupos ou perfil.</li>
+
+
+<li>REMOVIDO TEMPORARIAMENTE.</li>
+
+<li>contador de mensagens nos grupos.</li>
+
 ","url":"https://t.me/tkwhatsapp"
 }
