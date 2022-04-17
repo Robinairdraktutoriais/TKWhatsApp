@@ -2,13 +2,22 @@
 <p>TKWhatsApp V13</p>
 
 
-<li>comming soon</li>
+<li>Nova Versão Atualizada para 2.22.5.72</li>
 
 
-<li>Pronto</li>
+<li>anti visualização unica</li>
 
 
-<li>em breve</li>
+<li>modo avião - dnd</li>
+
+
+<li>encaminhar mensagem ate 250 chats</li>
+
+
+<li>capacidade de fixar mais de 3 conversas</li>
+
+
+<li>separar grupos de conversas</li>
 
 ","url":"https://t.me/robinairdraktutoriais"
 }
